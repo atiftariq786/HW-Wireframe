@@ -1,0 +1,105 @@
+
+html{
+    background: grey
+}
+
+p {
+
+color: green;
+}
+
+Body {
+    float : center;
+    color: #777;
+    font-family: Arial, Helvetica, sans-serif;
+    background: pink;
+    width: 960px;
+    font-size: 18px;
+    margin: auto;
+
+}
+
+.header {
+    padding:5px 0px 5px 0px;
+    margin: 0px auto;
+    color : #777;
+    text-align: center;
+    font-size: 18px;
+    width: 960px;
+}
+
+.header, .nav, .footer, .section, .aside {
+ background-color:#ebebeb;   
+}
+
+.nav {
+    padding:5px 0px 5px 0px;
+    margin: 10px auto;
+    color : #777;
+    text-align: center;
+    font-size: 18px;
+    width: 960px;
+}
+.section {
+    float: left;
+    padding:5px 0px 80px 0px;
+    margin: 10px auto;
+    color : #777;
+    text-align: center;
+    font-size: 18px;
+    width: 495px;
+}
+
+.aside {
+    float: right;
+    padding:5px 0px 80px 0px;
+    margin: 10px auto;
+    color : #777;
+    text-align: center;
+    font-size: 18px;
+    width: 445px;
+}
+
+
+.footer {
+    padding:5px 0px 5px 0px;
+    margin: 200px auto;
+    color : #777;
+    text-align: center;
+    font-size: 18px;
+    width: 960px;
+}
+
+
+
+
+
+
+
+
+Header, Nav, Section, Aside, and Footer
+
+
+background: '#ebebeb'
+
+
+Article
+
+
+color: '#ebebeb',
+background: '#777'
+
+
+h1 and p
+
+
+color: '#777',
+background: '#ebebeb'
+
+
+
+
+The widths of each section should be:
+
+
+section: 495px
