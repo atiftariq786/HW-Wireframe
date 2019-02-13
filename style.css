@@ -3,24 +3,22 @@ html{
     background: grey
 }
 
-p {
-
-color: green;
-}
 
 Body {
     float : center;
     color: #777;
     font-family: Arial, Helvetica, sans-serif;
-    background: pink;
+    background:  #777;
     width: 960px;
+    height: 550;
     font-size: 18px;
-    margin: auto;
+    margin: 10px auto;
+    
 
 }
 
 .header {
-    padding:5px 0px 5px 0px;
+    padding:1px 0px 1px 0px;
     margin: 0px auto;
     color : #777;
     text-align: center;
@@ -33,26 +31,55 @@ Body {
 }
 
 .nav {
-    padding:5px 0px 5px 0px;
+    padding:1px 0px 1px 0px;
     margin: 10px auto;
     color : #777;
     text-align: center;
     font-size: 18px;
     width: 960px;
+    
 }
+
+.article {
+    float: left;
+    margin: 2px 5px 1px 5px;
+    color :#ebebeb;
+    text-align: center;
+    font-size: 18px;
+    width: 483px;
+    height: 222px;
+    background: #777;
+}
+.h1 {
+    float: left;
+    margin: auto;
+    color :#777;
+    text-align: center;
+    font-size: 18px;
+    width: 443px;
+    height: 80px;
+    background: #ebebeb;
+}
+
+
+
+
 .section {
     float: left;
-    padding:5px 0px 80px 0px;
+    
     margin: 10px auto;
     color : #777;
     text-align: center;
     font-size: 18px;
     width: 495px;
+    height: 300px;
+    
+    
 }
 
 .aside {
     float: right;
-    padding:5px 0px 80px 0px;
+    padding:5px 0px 225px 0px;
     margin: 10px auto;
     color : #777;
     text-align: center;
@@ -62,8 +89,8 @@ Body {
 
 
 .footer {
-    padding:5px 0px 5px 0px;
-    margin: 200px auto;
+    padding:1px 0px 1px 0px;
+    margin:340px auto;
     color : #777;
     text-align: center;
     font-size: 18px;
