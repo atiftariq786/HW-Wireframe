@@ -5,7 +5,7 @@
 
 ## Image
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Building a Wireframe")
+![alt text](https://github.com/atiftariq786/HW-Wireframe/blob/master/Building%20a%20Wireframe.png?raw=true "Building a Wireframe")
 
 ## Getting Started
 
